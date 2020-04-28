@@ -11,12 +11,11 @@ discarding your changes if you so wish:
 
 # Installation
 
-## Add the hooks to a project
+## Adding it to an existing project
 
-Simply copy all files under this repository's `/hooks` folder to your `.git/hooks`
-in your project.
+Simply copy all files under this repository's `/hooks` folder to your project's `.git/hooks` folder.
 
-## Add to your default Git initialisation
+## Adding it to your default Git initialisation
 
 You can copy the hooks to your Git template folder and they will be automatically
 setup every time you run `git init`. If you don't have a template folder set, the
