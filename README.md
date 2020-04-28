@@ -13,7 +13,7 @@ discarding your changes if you so wish:
 
 ## Add the hooks to a project
 
-Simply copy all files under this repository's `/hook` folder to your `.git/hooks`
+Simply copy all files under this repository's `/hooks` folder to your `.git/hooks`
 in your project.
 
 ## Add to your default Git initialisation
